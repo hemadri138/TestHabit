@@ -47,7 +47,7 @@ A clean, modern, and interactive welcome page for a habit tracking application b
 ## 📁 Project Structure
 
 ```
-habitflow/
+TestHabit/
 ├── index.html          # Main HTML file
 ├── styles.css          # All CSS styles
 ├── README.md           # Project documentation
@@ -58,7 +58,7 @@ habitflow/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/habitflow.git
+   git clone https://github.com/hemadri138/TestHabit.git
    ```
 
 2. Open `index.html` in your web browser
@@ -91,6 +91,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+hemadri138 - [@hemadri138](https://github.com/hemadri138)
 
-Project Link: [https://github.com/yourusername/habitflow](https://github.com/yourusername/habitflow)
+Project Link: [https://github.com/hemadri138/TestHabit](https://github.com/hemadri138/TestHabit)
